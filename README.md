@@ -401,8 +401,7 @@ mask_res = mask_res[:hp, :wp]  # Recortar máscara
 ```
 
 ---
-Debido a que firme antes de entrar a la universidad un documento donde yo no me haría 
-fotos haré una demos pero solo la verá el profesor en persona
+Debido a que firme antes de entrar a la universidad un documento donde yo no me haría no mostraría mi entidad como rostro,manos,etc.  haré una demos pero solo la verá el profesor en persona
 
 
 
