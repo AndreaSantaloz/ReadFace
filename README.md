@@ -1,4 +1,4 @@
-# 🎭 Detectores de Rostros - Explicación Extremadamente Detallada
+# 🎭 Detectores de Rostros 
 
 ## Autora
 Andrea Santana López
