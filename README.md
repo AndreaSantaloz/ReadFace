@@ -5,7 +5,7 @@ Andrea Santana López
 
 ---
 
-# 🎭 **DETECTOR DE EMOCIONES - Explicación Paso a Paso**
+# 🎭 **DETECTOR DE EMOCIONES**
 
 ## **1. Configuración Inicial y Importaciones**
 
