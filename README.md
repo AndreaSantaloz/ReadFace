@@ -406,17 +406,3 @@ mask_res = mask_res[:hp, :wp]  # Recortar máscara
 
 
 
-## **Detección Facial con dlib**
-
-### **Proceso de Landmark Detection:**
-1. **Detección de rostros** → Rectángulos delimitadores
-2. **Predicción de landmarks** → 68 puntos por rostro
-3. **Procesamiento individual** → Cada rasgo por separado
-
-### **Ventajas de dlib:**
-- Precisión en landmarks faciales
-- Robustez frente a variaciones de iluminación
-- Buen rendimiento en tiempo real
-
----
-
